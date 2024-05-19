@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Michael
-- 👀 I’m interested in Cybersecurity and Software Development
+- 👀 I’m like in Cybersecurity and Software Development
 
 <!---
 Michael2921/Michael2921 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
